@@ -11,7 +11,7 @@ import SwiftUI
 struct endemicApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainActivity()
         }
     }
 }
